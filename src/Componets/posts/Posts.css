@@ -1,0 +1,26 @@
+.profilename{
+    padding-top: 1rem;
+    font-weight: bold;
+}
+
+.postcard{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    background-color: var(--cardColor);
+    border-radius: 1rem;
+    gap: 1rem;
+}
+
+.symbolls{
+    padding: 1rem;
+    padding-top: 0;
+    gap: 1rem;
+}
+
+.postreact{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+
+}
